@@ -7,7 +7,7 @@ Ocjenjivanje znanja u školskim ustanovama provodi se od samog početka školova
 Putem sustava bilo bi omogućeno izraditi cijeli sustav za provjeru znanja za jedan predmet. Učitelji bi unosili pitanja i moguće odgovore i kreirali ispite koje bi učenici kada bi došlo vrijeme mogli ispunjavati. Olakšalo bi se i nastavnicima i učenicima ispunjenje obaveze za provjeru znanja, omogućilo bi se brže ocjenjivanje, lakša pohrana ispita i lakša provjera stečenih ocjena. 
 
 ====
- Dokumentacija -> MojIspit.pdf
+ Dokumentacija -> ![alt tag](https://github.com/ProjectRodac/ispitYii/blob/master/MojIspit.pdf)
 
 Naslovna
 ====
