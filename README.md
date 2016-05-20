@@ -6,3 +6,8 @@ Ocjenjivanje znanja u školskim ustanovama provodi se od samog početka školova
 
 ====
  Dokumentacija --> MojIspit.pdf
+====
+
+![alt tag](https://github.com/ProjectRodac/ispitYii/blob/master/ispitYiiHome.png)
+
+![alt tag](https://github.com/ProjectRodac/ispitYii/blob/master/ispitYiiAdministracija.png)
